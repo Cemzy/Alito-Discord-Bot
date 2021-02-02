@@ -1,0 +1,30 @@
+{
+  "name": "discordjs-v12-template",
+  "version": "1.0.0",
+  "description": "A Discord.js v12 template.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "nekos.life": "^2.0.7",
+    "pretty-ms": "^7.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/TheFateAkira/discordjs-v12-template"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord bot",
+    "v12",
+    "discord.js"
+  ]
+}
